@@ -7,8 +7,8 @@
     <ProjectGuid>{4D6408B2-CD9E-44E3-8464-2D719C37081D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DeviceClientAmqpSample</RootNamespace>
-    <AssemblyName>DeviceClientAmqpSample</AssemblyName>
+    <RootNamespace>DeviceClientMqttSample</RootNamespace>
+    <AssemblyName>DeviceClientMqttSample</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
